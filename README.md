@@ -2,7 +2,7 @@
 ###  ` My Website Theme code for Blogger `
 
 ---
-## To show:- [Click Here](http://unique-rj4u.blogspot.com/ "Click Here To Go Website")
+## To look up:- [Click Here](http://unique-rj4u.blogspot.com/ "Click Here To Go Website")
 ---
 
 
