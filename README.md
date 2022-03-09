@@ -6,7 +6,7 @@
 ---
 
 
-|***Sectiones***|
+|***Sections***|
 | --- |
 |Home|
 |Surface-Web|
